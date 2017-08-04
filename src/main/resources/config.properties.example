@@ -1,0 +1,6 @@
+mongodb.connstr=mongodb://<USERNAME>:<PASSWORD>@<URL>:27017/<DATABASE>?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin
+mongodb.databaseName=launchmenu
+telegram.bottoken=<TOKEN>
+mongodb.username=<USERNAME>
+mongodb.password=<PASSWORD>
+calendar.calendarUrl=http://tbtyemek.appspot.com/calendar.ics
